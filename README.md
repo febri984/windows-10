@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/Global0755/28564783-babe-4db2-9e3c-8ad8fb05b1e5/bf79704b-528e-4e35-ab82-76b9003a6ec4/_apis/work/boardbadge/3e29d0b5-9e62-4243-b29d-53dcfe7f112e)](https://dev.azure.com/Global0755/28564783-babe-4db2-9e3c-8ad8fb05b1e5/_boards/board/t/bf79704b-528e-4e35-ab82-76b9003a6ec4/Microsoft.RequirementCategory)
 # windows-10
